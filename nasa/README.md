@@ -15,4 +15,4 @@
    ```bash
    pip install -r requirements.txt
    python make_mock_cells.py
-   python analyze_analogs.py
+   python analyze_analogs.py 
