@@ -1,0 +1,145 @@
+cell_id,region,country,environment,lat,lon,cell_size_deg,elevation_m,elevation_rel_m,slope_deg,roughness_m,local_relief_m,data_status
+CHA-00,Chajnantor Plateau,Chile,Dry / Desert,-23.075,-67.825,0.05,4880,42.4,3.8,1.07,165,MOCK_SYNTHETIC
+CHA-01,Chajnantor Plateau,Chile,Dry / Desert,-23.075,-67.775,0.05,4893,36.9,4.26,0.987,158,MOCK_SYNTHETIC
+CHA-02,Chajnantor Plateau,Chile,Dry / Desert,-23.075,-67.725,0.05,4918,45.1,4.19,0.996,161,MOCK_SYNTHETIC
+CHA-03,Chajnantor Plateau,Chile,Dry / Desert,-23.075,-67.675,0.05,4885,36.0,4.32,0.993,149,MOCK_SYNTHETIC
+CHA-10,Chajnantor Plateau,Chile,Dry / Desert,-23.025,-67.825,0.05,4888,46.6,4.15,0.993,165,MOCK_SYNTHETIC
+CHA-11,Chajnantor Plateau,Chile,Dry / Desert,-23.025,-67.775,0.05,4946,32.9,4.48,0.938,161,MOCK_SYNTHETIC
+CHA-12,Chajnantor Plateau,Chile,Dry / Desert,-23.025,-67.725,0.05,4871,53.5,4.38,1.057,153,MOCK_SYNTHETIC
+CHA-13,Chajnantor Plateau,Chile,Dry / Desert,-23.025,-67.675,0.05,4917,34.8,4.1,1.025,167,MOCK_SYNTHETIC
+CHA-20,Chajnantor Plateau,Chile,Dry / Desert,-22.975,-67.825,0.05,4905,33.7,4.03,1.072,165,MOCK_SYNTHETIC
+CHA-21,Chajnantor Plateau,Chile,Dry / Desert,-22.975,-67.775,0.05,4918,61.8,4.03,1.128,185,MOCK_SYNTHETIC
+CHA-22,Chajnantor Plateau,Chile,Dry / Desert,-22.975,-67.725,0.05,4940,48.3,4.06,1.05,156,MOCK_SYNTHETIC
+CHA-23,Chajnantor Plateau,Chile,Dry / Desert,-22.975,-67.675,0.05,4899,37.1,4.26,1.064,156,MOCK_SYNTHETIC
+CHA-30,Chajnantor Plateau,Chile,Dry / Desert,-22.925,-67.825,0.05,4875,30.0,4.0,0.928,153,MOCK_SYNTHETIC
+CHA-31,Chajnantor Plateau,Chile,Dry / Desert,-22.925,-67.775,0.05,4932,34.1,4.25,0.939,161,MOCK_SYNTHETIC
+CHA-32,Chajnantor Plateau,Chile,Dry / Desert,-22.925,-67.725,0.05,4856,33.0,4.67,0.971,169,MOCK_SYNTHETIC
+CHA-33,Chajnantor Plateau,Chile,Dry / Desert,-22.925,-67.675,0.05,4911,38.5,4.06,1.064,159,MOCK_SYNTHETIC
+ASK-00,Askja-Holuhraun Lava Field,Iceland,Volcanic,64.925,-16.775,0.05,738,-37.2,6.52,1.637,326,MOCK_SYNTHETIC
+ASK-01,Askja-Holuhraun Lava Field,Iceland,Volcanic,64.925,-16.725,0.05,669,-36.6,6.44,1.532,331,MOCK_SYNTHETIC
+ASK-02,Askja-Holuhraun Lava Field,Iceland,Volcanic,64.925,-16.675,0.05,715,-49.6,5.91,1.497,322,MOCK_SYNTHETIC
+ASK-03,Askja-Holuhraun Lava Field,Iceland,Volcanic,64.925,-16.625,0.05,751,-33.8,6.58,1.515,303,MOCK_SYNTHETIC
+ASK-10,Askja-Holuhraun Lava Field,Iceland,Volcanic,64.975,-16.775,0.05,651,-30.3,6.81,1.571,342,MOCK_SYNTHETIC
+ASK-11,Askja-Holuhraun Lava Field,Iceland,Volcanic,64.975,-16.725,0.05,705,-30.4,6.67,1.639,338,MOCK_SYNTHETIC
+ASK-12,Askja-Holuhraun Lava Field,Iceland,Volcanic,64.975,-16.675,0.05,680,-52.9,6.54,1.551,320,MOCK_SYNTHETIC
+ASK-13,Askja-Holuhraun Lava Field,Iceland,Volcanic,64.975,-16.625,0.05,742,-41.0,6.75,1.676,327,MOCK_SYNTHETIC
+ASK-20,Askja-Holuhraun Lava Field,Iceland,Volcanic,65.025,-16.775,0.05,728,-34.6,6.28,1.683,332,MOCK_SYNTHETIC
+ASK-21,Askja-Holuhraun Lava Field,Iceland,Volcanic,65.025,-16.725,0.05,735,-27.9,7.03,1.577,303,MOCK_SYNTHETIC
+ASK-22,Askja-Holuhraun Lava Field,Iceland,Volcanic,65.025,-16.675,0.05,649,-41.0,6.77,1.483,313,MOCK_SYNTHETIC
+ASK-23,Askja-Holuhraun Lava Field,Iceland,Volcanic,65.025,-16.625,0.05,753,-21.5,7.08,1.521,281,MOCK_SYNTHETIC
+ASK-30,Askja-Holuhraun Lava Field,Iceland,Volcanic,65.075,-16.775,0.05,738,-44.2,6.53,1.617,305,MOCK_SYNTHETIC
+ASK-31,Askja-Holuhraun Lava Field,Iceland,Volcanic,65.075,-16.725,0.05,739,-14.5,6.68,1.598,323,MOCK_SYNTHETIC
+ASK-32,Askja-Holuhraun Lava Field,Iceland,Volcanic,65.075,-16.675,0.05,673,-32.4,6.47,1.532,334,MOCK_SYNTHETIC
+ASK-33,Askja-Holuhraun Lava Field,Iceland,Volcanic,65.075,-16.625,0.05,664,-34.5,5.77,1.64,332,MOCK_SYNTHETIC
+MCM-00,McMurdo Dry Valleys,Antarctica,Polar,-77.575,162.425,0.05,416,149.2,9.42,1.811,544,MOCK_SYNTHETIC
+MCM-01,McMurdo Dry Valleys,Antarctica,Polar,-77.575,162.475,0.05,377,127.9,9.33,1.816,513,MOCK_SYNTHETIC
+MCM-02,McMurdo Dry Valleys,Antarctica,Polar,-77.575,162.525,0.05,409,125.7,8.7,2.024,459,MOCK_SYNTHETIC
+MCM-03,McMurdo Dry Valleys,Antarctica,Polar,-77.575,162.575,0.05,356,134.3,8.81,1.904,526,MOCK_SYNTHETIC
+MCM-10,McMurdo Dry Valleys,Antarctica,Polar,-77.525,162.425,0.05,428,126.3,9.48,1.831,498,MOCK_SYNTHETIC
+MCM-11,McMurdo Dry Valleys,Antarctica,Polar,-77.525,162.475,0.05,428,127.6,8.91,1.544,493,MOCK_SYNTHETIC
+MCM-12,McMurdo Dry Valleys,Antarctica,Polar,-77.525,162.525,0.05,403,116.3,9.35,1.925,485,MOCK_SYNTHETIC
+MCM-13,McMurdo Dry Valleys,Antarctica,Polar,-77.525,162.575,0.05,363,105.4,9.17,1.907,483,MOCK_SYNTHETIC
+MCM-20,McMurdo Dry Valleys,Antarctica,Polar,-77.475,162.425,0.05,404,124.1,9.02,1.915,486,MOCK_SYNTHETIC
+MCM-21,McMurdo Dry Valleys,Antarctica,Polar,-77.475,162.475,0.05,423,114.9,9.35,1.96,483,MOCK_SYNTHETIC
+MCM-22,McMurdo Dry Valleys,Antarctica,Polar,-77.475,162.525,0.05,388,123.7,9.39,1.798,481,MOCK_SYNTHETIC
+MCM-23,McMurdo Dry Valleys,Antarctica,Polar,-77.475,162.575,0.05,402,113.4,8.72,1.753,454,MOCK_SYNTHETIC
+MCM-30,McMurdo Dry Valleys,Antarctica,Polar,-77.425,162.425,0.05,362,113.8,8.75,1.849,489,MOCK_SYNTHETIC
+MCM-31,McMurdo Dry Valleys,Antarctica,Polar,-77.425,162.475,0.05,395,112.7,8.68,1.793,475,MOCK_SYNTHETIC
+MCM-32,McMurdo Dry Valleys,Antarctica,Polar,-77.425,162.525,0.05,395,136.2,9.69,2.04,530,MOCK_SYNTHETIC
+MCM-33,McMurdo Dry Valleys,Antarctica,Polar,-77.425,162.575,0.05,370,126.7,9.34,1.945,531,MOCK_SYNTHETIC
+MAU-00,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.625,-155.575,0.05,3063,109.8,7.74,2.077,359,MOCK_SYNTHETIC
+MAU-01,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.625,-155.525,0.05,3018,99.2,7.0,2.186,387,MOCK_SYNTHETIC
+MAU-02,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.625,-155.475,0.05,3023,98.9,7.4,2.201,383,MOCK_SYNTHETIC
+MAU-03,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.625,-155.425,0.05,2971,108.3,8.32,2.29,352,MOCK_SYNTHETIC
+MAU-10,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.675,-155.575,0.05,3002,82.3,6.81,2.273,381,MOCK_SYNTHETIC
+MAU-11,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.675,-155.525,0.05,2983,79.1,7.02,2.218,381,MOCK_SYNTHETIC
+MAU-12,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.675,-155.475,0.05,3017,115.2,7.37,2.252,377,MOCK_SYNTHETIC
+MAU-13,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.675,-155.425,0.05,2988,97.6,7.86,2.087,402,MOCK_SYNTHETIC
+MAU-20,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.725,-155.575,0.05,3037,100.4,7.6,2.045,425,MOCK_SYNTHETIC
+MAU-21,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.725,-155.525,0.05,3024,101.7,7.52,2.25,368,MOCK_SYNTHETIC
+MAU-22,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.725,-155.475,0.05,3007,90.8,7.69,2.125,397,MOCK_SYNTHETIC
+MAU-23,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.725,-155.425,0.05,2997,102.7,8.61,2.288,385,MOCK_SYNTHETIC
+MAU-30,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.775,-155.575,0.05,3001,89.6,7.91,2.376,381,MOCK_SYNTHETIC
+MAU-31,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.775,-155.525,0.05,3042,98.9,6.84,2.128,360,MOCK_SYNTHETIC
+MAU-32,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.775,-155.475,0.05,2993,106.3,7.15,2.191,384,MOCK_SYNTHETIC
+MAU-33,Mauna Loa Northeast Flank,USA (Hawaii),Volcanic,19.775,-155.425,0.05,2982,90.9,7.53,2.296,369,MOCK_SYNTHETIC
+TIM-00,Timanfaya Volcanic Field,Spain,Volcanic,28.925,-13.825,0.05,231,18.6,5.07,1.362,138,MOCK_SYNTHETIC
+TIM-01,Timanfaya Volcanic Field,Spain,Volcanic,28.925,-13.775,0.05,244,9.1,4.96,1.361,151,MOCK_SYNTHETIC
+TIM-02,Timanfaya Volcanic Field,Spain,Volcanic,28.925,-13.725,0.05,237,24.6,5.09,1.322,131,MOCK_SYNTHETIC
+TIM-03,Timanfaya Volcanic Field,Spain,Volcanic,28.925,-13.675,0.05,239,26.6,4.86,1.354,120,MOCK_SYNTHETIC
+TIM-10,Timanfaya Volcanic Field,Spain,Volcanic,28.975,-13.825,0.05,240,23.1,5.11,1.43,138,MOCK_SYNTHETIC
+TIM-11,Timanfaya Volcanic Field,Spain,Volcanic,28.975,-13.775,0.05,244,28.3,4.97,1.239,147,MOCK_SYNTHETIC
+TIM-12,Timanfaya Volcanic Field,Spain,Volcanic,28.975,-13.725,0.05,223,33.8,5.42,1.453,146,MOCK_SYNTHETIC
+TIM-13,Timanfaya Volcanic Field,Spain,Volcanic,28.975,-13.675,0.05,296,9.0,5.06,1.417,133,MOCK_SYNTHETIC
+TIM-20,Timanfaya Volcanic Field,Spain,Volcanic,29.025,-13.825,0.05,300,14.2,4.82,1.419,147,MOCK_SYNTHETIC
+TIM-21,Timanfaya Volcanic Field,Spain,Volcanic,29.025,-13.775,0.05,235,14.0,5.13,1.3,135,MOCK_SYNTHETIC
+TIM-22,Timanfaya Volcanic Field,Spain,Volcanic,29.025,-13.725,0.05,229,15.7,4.96,1.529,146,MOCK_SYNTHETIC
+TIM-23,Timanfaya Volcanic Field,Spain,Volcanic,29.025,-13.675,0.05,251,17.8,5.22,1.43,146,MOCK_SYNTHETIC
+TIM-30,Timanfaya Volcanic Field,Spain,Volcanic,29.075,-13.825,0.05,285,9.9,4.44,1.398,141,MOCK_SYNTHETIC
+TIM-31,Timanfaya Volcanic Field,Spain,Volcanic,29.075,-13.775,0.05,257,14.0,4.94,1.439,144,MOCK_SYNTHETIC
+TIM-32,Timanfaya Volcanic Field,Spain,Volcanic,29.075,-13.725,0.05,283,-1.7,4.59,1.502,144,MOCK_SYNTHETIC
+TIM-33,Timanfaya Volcanic Field,Spain,Volcanic,29.075,-13.675,0.05,270,17.2,4.88,1.414,133,MOCK_SYNTHETIC
+BLA-00,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.525,28.325,0.05,262,-31.1,3.02,0.825,97,MOCK_SYNTHETIC
+BLA-01,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.525,28.375,0.05,309,-15.3,3.25,0.769,86,MOCK_SYNTHETIC
+BLA-02,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.525,28.425,0.05,287,-21.0,3.3,0.786,96,MOCK_SYNTHETIC
+BLA-03,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.525,28.475,0.05,288,-15.1,3.1,0.821,93,MOCK_SYNTHETIC
+BLA-10,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.575,28.325,0.05,283,-5.4,3.15,0.772,92,MOCK_SYNTHETIC
+BLA-11,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.575,28.375,0.05,273,-19.1,2.82,0.829,103,MOCK_SYNTHETIC
+BLA-12,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.575,28.425,0.05,337,-12.7,2.86,0.815,95,MOCK_SYNTHETIC
+BLA-13,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.575,28.475,0.05,298,-18.7,2.75,0.766,82,MOCK_SYNTHETIC
+BLA-20,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.625,28.325,0.05,348,-15.3,3.11,0.792,83,MOCK_SYNTHETIC
+BLA-21,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.625,28.375,0.05,304,-26.4,2.85,0.802,90,MOCK_SYNTHETIC
+BLA-22,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.625,28.425,0.05,295,-27.7,2.85,0.8,96,MOCK_SYNTHETIC
+BLA-23,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.625,28.475,0.05,260,-26.6,2.98,0.794,87,MOCK_SYNTHETIC
+BLA-30,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.675,28.325,0.05,348,-16.0,2.85,0.725,89,MOCK_SYNTHETIC
+BLA-31,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.675,28.375,0.05,337,-18.1,2.65,0.745,91,MOCK_SYNTHETIC
+BLA-32,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.675,28.425,0.05,327,-18.6,3.02,0.843,96,MOCK_SYNTHETIC
+BLA-33,Black Desert (Al-Sahra Sawda),Egypt,Dry / Desert,27.675,28.475,0.05,283,-15.6,2.86,0.757,93,MOCK_SYNTHETIC
+PIN-00,Pinacate Volcanic Field,Mexico,Volcanic,31.725,-113.575,0.05,364,11.7,5.89,1.565,217,MOCK_SYNTHETIC
+PIN-01,Pinacate Volcanic Field,Mexico,Volcanic,31.725,-113.525,0.05,410,8.7,6.23,1.444,217,MOCK_SYNTHETIC
+PIN-02,Pinacate Volcanic Field,Mexico,Volcanic,31.725,-113.475,0.05,413,1.4,5.42,1.568,235,MOCK_SYNTHETIC
+PIN-03,Pinacate Volcanic Field,Mexico,Volcanic,31.725,-113.425,0.05,322,0.8,5.48,1.548,247,MOCK_SYNTHETIC
+PIN-10,Pinacate Volcanic Field,Mexico,Volcanic,31.775,-113.575,0.05,451,17.1,5.48,1.415,219,MOCK_SYNTHETIC
+PIN-11,Pinacate Volcanic Field,Mexico,Volcanic,31.775,-113.525,0.05,412,22.7,5.24,1.546,241,MOCK_SYNTHETIC
+PIN-12,Pinacate Volcanic Field,Mexico,Volcanic,31.775,-113.475,0.05,408,42.4,5.96,1.502,237,MOCK_SYNTHETIC
+PIN-13,Pinacate Volcanic Field,Mexico,Volcanic,31.775,-113.425,0.05,386,-1.0,5.92,1.587,227,MOCK_SYNTHETIC
+PIN-20,Pinacate Volcanic Field,Mexico,Volcanic,31.825,-113.575,0.05,423,6.2,6.27,1.516,236,MOCK_SYNTHETIC
+PIN-21,Pinacate Volcanic Field,Mexico,Volcanic,31.825,-113.525,0.05,419,-3.5,5.75,1.638,230,MOCK_SYNTHETIC
+PIN-22,Pinacate Volcanic Field,Mexico,Volcanic,31.825,-113.475,0.05,435,18.8,5.27,1.553,217,MOCK_SYNTHETIC
+PIN-23,Pinacate Volcanic Field,Mexico,Volcanic,31.825,-113.425,0.05,407,5.8,5.81,1.495,233,MOCK_SYNTHETIC
+PIN-30,Pinacate Volcanic Field,Mexico,Volcanic,31.875,-113.575,0.05,389,-3.5,5.51,1.569,250,MOCK_SYNTHETIC
+PIN-31,Pinacate Volcanic Field,Mexico,Volcanic,31.875,-113.525,0.05,406,18.4,6.08,1.398,208,MOCK_SYNTHETIC
+PIN-32,Pinacate Volcanic Field,Mexico,Volcanic,31.875,-113.475,0.05,399,-8.9,5.72,1.389,223,MOCK_SYNTHETIC
+PIN-33,Pinacate Volcanic Field,Mexico,Volcanic,31.875,-113.425,0.05,381,15.2,5.61,1.414,231,MOCK_SYNTHETIC
+DAN-00,Danakil Depression Margin,Ethiopia,Dry / Desert,14.125,40.225,0.05,-26,4.9,1.81,0.603,68,MOCK_SYNTHETIC
+DAN-01,Danakil Depression Margin,Ethiopia,Dry / Desert,14.125,40.275,0.05,-96,12.8,2.11,0.636,63,MOCK_SYNTHETIC
+DAN-02,Danakil Depression Margin,Ethiopia,Dry / Desert,14.125,40.325,0.05,-93,-1.8,1.97,0.604,61,MOCK_SYNTHETIC
+DAN-03,Danakil Depression Margin,Ethiopia,Dry / Desert,14.125,40.375,0.05,-132,-2.8,2.0,0.603,59,MOCK_SYNTHETIC
+DAN-10,Danakil Depression Margin,Ethiopia,Dry / Desert,14.175,40.225,0.05,-80,-1.0,1.96,0.563,58,MOCK_SYNTHETIC
+DAN-11,Danakil Depression Margin,Ethiopia,Dry / Desert,14.175,40.275,0.05,-94,1.2,1.8,0.628,58,MOCK_SYNTHETIC
+DAN-12,Danakil Depression Margin,Ethiopia,Dry / Desert,14.175,40.325,0.05,-123,11.1,2.12,0.579,59,MOCK_SYNTHETIC
+DAN-13,Danakil Depression Margin,Ethiopia,Dry / Desert,14.175,40.375,0.05,-131,8.1,2.09,0.587,64,MOCK_SYNTHETIC
+DAN-20,Danakil Depression Margin,Ethiopia,Dry / Desert,14.225,40.225,0.05,-77,-1.2,2.07,0.55,59,MOCK_SYNTHETIC
+DAN-21,Danakil Depression Margin,Ethiopia,Dry / Desert,14.225,40.275,0.05,-94,-0.1,2.2,0.609,61,MOCK_SYNTHETIC
+DAN-22,Danakil Depression Margin,Ethiopia,Dry / Desert,14.225,40.325,0.05,-133,-1.9,1.92,0.67,59,MOCK_SYNTHETIC
+DAN-23,Danakil Depression Margin,Ethiopia,Dry / Desert,14.225,40.375,0.05,-97,12.2,2.07,0.558,62,MOCK_SYNTHETIC
+DAN-30,Danakil Depression Margin,Ethiopia,Dry / Desert,14.275,40.225,0.05,-82,-1.8,2.05,0.603,56,MOCK_SYNTHETIC
+DAN-31,Danakil Depression Margin,Ethiopia,Dry / Desert,14.275,40.275,0.05,-114,0.2,1.94,0.616,63,MOCK_SYNTHETIC
+DAN-32,Danakil Depression Margin,Ethiopia,Dry / Desert,14.275,40.325,0.05,-93,-3.7,2.14,0.604,61,MOCK_SYNTHETIC
+DAN-33,Danakil Depression Margin,Ethiopia,Dry / Desert,14.275,40.375,0.05,-119,-2.2,2.1,0.622,59,MOCK_SYNTHETIC
+TIB-00,Tibesti Highlands,Chad,Mountainous,20.925,17.425,0.05,2200,62.0,10.48,2.972,780,MOCK_SYNTHETIC
+TIB-01,Tibesti Highlands,Chad,Mountainous,20.925,17.475,0.05,2165,61.5,10.92,2.78,768,MOCK_SYNTHETIC
+TIB-02,Tibesti Highlands,Chad,Mountainous,20.925,17.525,0.05,2198,31.1,11.1,3.04,826,MOCK_SYNTHETIC
+TIB-03,Tibesti Highlands,Chad,Mountainous,20.925,17.575,0.05,2185,45.8,11.35,2.794,822,MOCK_SYNTHETIC
+TIB-10,Tibesti Highlands,Chad,Mountainous,20.975,17.425,0.05,2183,49.9,11.16,3.168,794,MOCK_SYNTHETIC
+TIB-11,Tibesti Highlands,Chad,Mountainous,20.975,17.475,0.05,2194,43.1,11.46,3.011,789,MOCK_SYNTHETIC
+TIB-12,Tibesti Highlands,Chad,Mountainous,20.975,17.525,0.05,2233,44.3,10.72,3.001,788,MOCK_SYNTHETIC
+TIB-13,Tibesti Highlands,Chad,Mountainous,20.975,17.575,0.05,2139,63.5,10.98,3.152,882,MOCK_SYNTHETIC
+TIB-20,Tibesti Highlands,Chad,Mountainous,21.025,17.425,0.05,2195,63.8,11.14,3.025,794,MOCK_SYNTHETIC
+TIB-21,Tibesti Highlands,Chad,Mountainous,21.025,17.475,0.05,2210,71.3,10.53,3.285,820,MOCK_SYNTHETIC
+TIB-22,Tibesti Highlands,Chad,Mountainous,21.025,17.525,0.05,2208,37.5,10.99,2.854,823,MOCK_SYNTHETIC
+TIB-23,Tibesti Highlands,Chad,Mountainous,21.025,17.575,0.05,2224,71.5,10.91,2.989,817,MOCK_SYNTHETIC
+TIB-30,Tibesti Highlands,Chad,Mountainous,21.075,17.425,0.05,2148,55.7,10.7,3.078,782,MOCK_SYNTHETIC
+TIB-31,Tibesti Highlands,Chad,Mountainous,21.075,17.475,0.05,2219,58.1,11.47,3.333,862,MOCK_SYNTHETIC
+TIB-32,Tibesti Highlands,Chad,Mountainous,21.075,17.525,0.05,2224,71.4,10.8,2.884,766,MOCK_SYNTHETIC
+TIB-33,Tibesti Highlands,Chad,Mountainous,21.075,17.575,0.05,2205,74.7,10.6,3.07,750,MOCK_SYNTHETIC
